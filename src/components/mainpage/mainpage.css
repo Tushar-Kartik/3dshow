@@ -1,0 +1,65 @@
+.main{
+    width: 100vw;
+    height: 100vh;
+    /* border: 2px solid rgb(255, 0, 0); */
+}
+.upper{
+    width: 100%;
+    height: 80%;
+    /* border: 2px solid blue; */
+    background-color: #181C14;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lower{
+    /* position: relative; */
+    padding-top: 15px;
+    width: 100%;
+    height: 20%;
+    background-color: #3C3D37;
+    
+}
+
+.white{
+    color:white;
+}
+.lower-heading{
+ 
+    margin-left: 40%;
+    margin-bottom: 10px;
+    margin-top: 0px;
+
+    font-size: 2rem;
+}
+.select-model{
+    margin-left: 44%;
+    font-size: 1.5rem;
+}
+select{
+    border: 2px solid green;
+    margin-left: 5px;
+    padding:5px;
+    border-radius: 10px;
+    font-weight: 900;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.optionmenu{
+    width: 10vw;
+    height: 40vh;
+    border: 3px solid white;
+    position: absolute;
+    right: 5%;
+    border-radius: 20px;
+    color: white;
+    padding-left: 10px;
+    padding-top: 20px;
+
+}
+
+.width100{
+    width: 90%;
+    margin-bottom: 10px;
+}
